@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-text-splitters
+chromadb
+unstructured
+beautifulsoup4
+lxml
+openai
+tiktoken
