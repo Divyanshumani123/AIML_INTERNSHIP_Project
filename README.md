@@ -4,7 +4,7 @@ PROJECT_01_CANADA_per_capita:https://canadapercapita-axjq2kd9w5f3e7pq3qtjmc.stre
 
 PROJECT_02_CAT_DOG_main:https://cat-dog-x4m2fabzozazafzpwmyclv.streamlit.app/
 
-PROJECT_03_CNN Gender Classification:
+PROJECT_03_K_clustering:https://aimlinternshipproject-h38dzhranjdjhpcnoywyv3.streamlit.app/
 
 PROJECT_04_Gender_image_classification:https://gender-image-classification-gckxyadtjji6oru8fthk9h.streamlit.app/
 
