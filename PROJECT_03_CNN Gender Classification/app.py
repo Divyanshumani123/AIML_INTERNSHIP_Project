@@ -38,7 +38,7 @@ st.set_page_config(
 def load_gender_model():
     if not TENSORFLOW_AVAILABLE:
         return "simulation_mode"
-    model_paths = ['gender_classifier.keras', 'binary_image_classifier.h5']
+    model_paths = ['PROJECT_03_CNN Gender Classification/gender_classifier.keras']
     for path in model_paths:
         if os.path.exists(path):
             try:
